@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Bootcamp" max_length="40" name="x_58872_needit_bootcamp" type="collection">
+        <element label="Attendee Name" max_length="40" name="attendee_name" type="string"/>
+        <element label="College" max_length="40" name="college" type="string"/>
+        <element label="Joining Date" max_length="40" name="joining_date" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-27 05:33:36</sys_created_on>
+        <sys_id>b22c553e1b18b010a8be99f7b04bcb2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_bootcamp.x_58872_needit.bootcamp_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_bootcamp">f22c553e1b18b010a8be99f7b04bcb2a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b22c553e1b18b010a8be99f7b04bcb2e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-27 05:33:36</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.bootcamp_user" name="x_58872_needit.bootcamp_user">aa2cdd3a1b18b010a8be99f7b04bcb2b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
